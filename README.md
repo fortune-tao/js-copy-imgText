@@ -11,5 +11,5 @@ js复制图片-文字，可用于商品复制文案进行分享的功能~
 
 
   [1]: https://github.com/zenorocha/clipboard.js
-  [2]: http://wx4.sinaimg.cn/mw690/6ecf2da3gy1g2fwh7osxdj20es0dpacf.jpg
-  [3]: http://wx4.sinaimg.cn/mw690/6ecf2da3gy1g2fwjg3i4zj20c80a9my6.jpg
+  [2]: https://img-blog.csdnimg.cn/20190426133944451.png
+  [3]: https://img-blog.csdnimg.cn/20190426134101429.png
